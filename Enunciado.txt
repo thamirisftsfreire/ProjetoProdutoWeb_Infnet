@@ -1,0 +1,23 @@
+
+TAREFA 01 (PARA 07/02/2020)
+Crie uma aplicação utilizando ASP.NET Core 3.0 e o template MVC para criar um CRUD completo - criação, recuperação, atualização, exclusão e listagem de dados de um tipo Produto, que contém:
+
+
+Identificador (int)
+
+Nome (string)
+
+Fabricante (string)
+
+Código de barras (por simplicidade, use string)
+
+Preço (decimal)
+
+Estoque (int)
+
+Outros detalhes:
+
+Utilize qualquer forma de persistência com banco de dados (ADO.NET, Entity Framework, nHibernate) e qualquer banco de dados (SQL Server, MySQL, etc);
+Utilize qualquer meio de front-end (páginas geradas pelo Visual Studio, frameworks Javascript, à vontade)
+Preferencialmente, utilize um repositório, como o github, e envie o link do mesmo como entrega
+10% da nota final.
